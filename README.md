@@ -66,7 +66,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github-readme-streak-stats.herokuapp.com/?user=baljeetsaini22&" alt="GitHub Streak" > </a>
+  <iframe src="https://github-readme-streak-stats.herokuapp.com/?user=baljeetsaini22&" alt="GitHub Streak" ></iframe>
 </p>
 
 <p align="center">
