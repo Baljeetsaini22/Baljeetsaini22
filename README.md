@@ -17,7 +17,7 @@
 - 🚀 **React.js**, **Next.js**, and building scalable projects
 
 ### 👨‍💻 Portfolio
-- 🔗 [My Projects](https://baljeetsaini22.github.io/)
+- 🔗 [My Projects](https://baljeetsingh.vercel.app/)
 
 ### 📫 Contact Me
 - 📧 **baljeetsaini7440@gmail.com**
