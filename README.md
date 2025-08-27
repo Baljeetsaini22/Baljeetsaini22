@@ -14,7 +14,7 @@
 ---
 
 ### 🌱 Currently Learning
-- 🚀 **React.js**, **Next.js**, and building scalable projects
+- 🚀 **React.js**, **Next.js**, **PHP**, and building scalable projects
 
 ### 👨‍💻 Portfolio
 - 🔗 [My Projects](https://baljeetsingh.vercel.app/)
